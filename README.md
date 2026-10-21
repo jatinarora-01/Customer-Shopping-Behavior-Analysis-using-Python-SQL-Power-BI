@@ -110,8 +110,8 @@ Install or configure the following tools:
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/jatinarora-01/Customer-Shopping-Behavior-Analysis-using-Python-SQL-Power-BI/edit/main/README.md>
-cd <Customer-Shopping-Behavior-Analysis-using-Python-SQL-Power-BI>
+git clone https://github.com/jatinarora-01/Customer-Shopping-Behavior-Analysis-using-Python-SQL-Power-BI.git
+cd Customer-Shopping-Behavior-Analysis-using-Python-SQL-Power-BI
 ```
 
 Replace the placeholders with your actual GitHub repository URL and repository name.
