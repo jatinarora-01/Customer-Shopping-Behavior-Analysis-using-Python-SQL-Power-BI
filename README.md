@@ -238,12 +238,6 @@ This project demonstrates how multiple data analytics tools can work together to
 
 These are potential enhancements rather than claims about functionality already implemented.
 
-## 🎥 Project Reference
-
-This project was developed with reference to the following tutorial, with modifications including the use of MySQL as the database.
-
-**YouTube Tutorial:** [Customer Shopping Behavior Analysis Project](https://www.youtube.com/watch?v=5PrZvPeUw60)
-
 ## 👨‍💻 About the Author
 
 I am a Computer Engineering graduate interested in data analytics, business intelligence, and software development. I enjoy working with data to explore patterns, answer business questions, and communicate insights through analytical tools.
